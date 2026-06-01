@@ -1,0 +1,668 @@
+[
+  {
+    "tinggi_cm": 65.0,
+    "minus_3sd": 5.9,
+    "minus_2sd": 6.3,
+    "plus_2sd": 8.8
+  },
+  {
+    "tinggi_cm": 65.5,
+    "minus_3sd": 6.0,
+    "minus_2sd": 6.4,
+    "plus_2sd": 8.9
+  },
+  {
+    "tinggi_cm": 66.0,
+    "minus_3sd": 6.1,
+    "minus_2sd": 6.5,
+    "plus_2sd": 9.1
+  },
+  {
+    "tinggi_cm": 66.5,
+    "minus_3sd": 6.1,
+    "minus_2sd": 6.6,
+    "plus_2sd": 9.2
+  },
+  {
+    "tinggi_cm": 67.0,
+    "minus_3sd": 6.2,
+    "minus_2sd": 6.7,
+    "plus_2sd": 9.4
+  },
+  {
+    "tinggi_cm": 67.5,
+    "minus_3sd": 6.3,
+    "minus_2sd": 6.8,
+    "plus_2sd": 9.5
+  },
+  {
+    "tinggi_cm": 68.0,
+    "minus_3sd": 6.4,
+    "minus_2sd": 6.9,
+    "plus_2sd": 9.6
+  },
+  {
+    "tinggi_cm": 68.5,
+    "minus_3sd": 6.5,
+    "minus_2sd": 7.0,
+    "plus_2sd": 9.8
+  },
+  {
+    "tinggi_cm": 69.0,
+    "minus_3sd": 6.6,
+    "minus_2sd": 7.1,
+    "plus_2sd": 9.9
+  },
+  {
+    "tinggi_cm": 69.5,
+    "minus_3sd": 6.7,
+    "minus_2sd": 7.2,
+    "plus_2sd": 10.0
+  },
+  {
+    "tinggi_cm": 70.0,
+    "minus_3sd": 6.8,
+    "minus_2sd": 7.3,
+    "plus_2sd": 10.2
+  },
+  {
+    "tinggi_cm": 70.5,
+    "minus_3sd": 6.9,
+    "minus_2sd": 7.4,
+    "plus_2sd": 10.3
+  },
+  {
+    "tinggi_cm": 71.0,
+    "minus_3sd": 6.9,
+    "minus_2sd": 7.5,
+    "plus_2sd": 10.4
+  },
+  {
+    "tinggi_cm": 71.5,
+    "minus_3sd": 7.0,
+    "minus_2sd": 7.6,
+    "plus_2sd": 10.6
+  },
+  {
+    "tinggi_cm": 72.0,
+    "minus_3sd": 7.1,
+    "minus_2sd": 7.7,
+    "plus_2sd": 10.7
+  },
+  {
+    "tinggi_cm": 72.5,
+    "minus_3sd": 7.2,
+    "minus_2sd": 7.8,
+    "plus_2sd": 10.8
+  },
+  {
+    "tinggi_cm": 73.0,
+    "minus_3sd": 7.3,
+    "minus_2sd": 7.9,
+    "plus_2sd": 11.0
+  },
+  {
+    "tinggi_cm": 73.5,
+    "minus_3sd": 7.4,
+    "minus_2sd": 7.9,
+    "plus_2sd": 11.1
+  },
+  {
+    "tinggi_cm": 74.0,
+    "minus_3sd": 7.4,
+    "minus_2sd": 8.0,
+    "plus_2sd": 11.2
+  },
+  {
+    "tinggi_cm": 74.5,
+    "minus_3sd": 7.5,
+    "minus_2sd": 8.1,
+    "plus_2sd": 11.3
+  },
+  {
+    "tinggi_cm": 75.0,
+    "minus_3sd": 7.6,
+    "minus_2sd": 8.2,
+    "plus_2sd": 11.4
+  },
+  {
+    "tinggi_cm": 75.5,
+    "minus_3sd": 7.7,
+    "minus_2sd": 8.3,
+    "plus_2sd": 11.6
+  },
+  {
+    "tinggi_cm": 76.0,
+    "minus_3sd": 7.7,
+    "minus_2sd": 8.4,
+    "plus_2sd": 11.7
+  },
+  {
+    "tinggi_cm": 76.5,
+    "minus_3sd": 7.8,
+    "minus_2sd": 8.5,
+    "plus_2sd": 11.8
+  },
+  {
+    "tinggi_cm": 77.0,
+    "minus_3sd": 7.9,
+    "minus_2sd": 8.5,
+    "plus_2sd": 11.9
+  },
+  {
+    "tinggi_cm": 77.5,
+    "minus_3sd": 8.0,
+    "minus_2sd": 8.6,
+    "plus_2sd": 12.0
+  },
+  {
+    "tinggi_cm": 78.0,
+    "minus_3sd": 8.0,
+    "minus_2sd": 8.7,
+    "plus_2sd": 12.1
+  },
+  {
+    "tinggi_cm": 78.5,
+    "minus_3sd": 8.1,
+    "minus_2sd": 8.8,
+    "plus_2sd": 12.2
+  },
+  {
+    "tinggi_cm": 79.0,
+    "minus_3sd": 8.2,
+    "minus_2sd": 8.8,
+    "plus_2sd": 12.3
+  },
+  {
+    "tinggi_cm": 79.5,
+    "minus_3sd": 8.3,
+    "minus_2sd": 8.9,
+    "plus_2sd": 12.4
+  },
+  {
+    "tinggi_cm": 80.0,
+    "minus_3sd": 8.3,
+    "minus_2sd": 9.0,
+    "plus_2sd": 12.6
+  },
+  {
+    "tinggi_cm": 80.5,
+    "minus_3sd": 8.4,
+    "minus_2sd": 9.1,
+    "plus_2sd": 12.7
+  },
+  {
+    "tinggi_cm": 81.0,
+    "minus_3sd": 8.5,
+    "minus_2sd": 9.2,
+    "plus_2sd": 12.8
+  },
+  {
+    "tinggi_cm": 81.5,
+    "minus_3sd": 8.6,
+    "minus_2sd": 9.3,
+    "plus_2sd": 12.9
+  },
+  {
+    "tinggi_cm": 82.0,
+    "minus_3sd": 8.7,
+    "minus_2sd": 9.3,
+    "plus_2sd": 13.0
+  },
+  {
+    "tinggi_cm": 82.5,
+    "minus_3sd": 8.7,
+    "minus_2sd": 9.4,
+    "plus_2sd": 13.1
+  },
+  {
+    "tinggi_cm": 83.0,
+    "minus_3sd": 8.8,
+    "minus_2sd": 9.5,
+    "plus_2sd": 13.3
+  },
+  {
+    "tinggi_cm": 83.5,
+    "minus_3sd": 8.9,
+    "minus_2sd": 9.6,
+    "plus_2sd": 13.4
+  },
+  {
+    "tinggi_cm": 84.0,
+    "minus_3sd": 9.0,
+    "minus_2sd": 9.7,
+    "plus_2sd": 13.5
+  },
+  {
+    "tinggi_cm": 84.5,
+    "minus_3sd": 9.1,
+    "minus_2sd": 9.9,
+    "plus_2sd": 13.7
+  },
+  {
+    "tinggi_cm": 85.0,
+    "minus_3sd": 9.2,
+    "minus_2sd": 10.0,
+    "plus_2sd": 13.8
+  },
+  {
+    "tinggi_cm": 85.5,
+    "minus_3sd": 9.3,
+    "minus_2sd": 10.1,
+    "plus_2sd": 13.9
+  },
+  {
+    "tinggi_cm": 86.0,
+    "minus_3sd": 9.4,
+    "minus_2sd": 10.2,
+    "plus_2sd": 14.1
+  },
+  {
+    "tinggi_cm": 86.5,
+    "minus_3sd": 9.5,
+    "minus_2sd": 10.3,
+    "plus_2sd": 14.2
+  },
+  {
+    "tinggi_cm": 87.0,
+    "minus_3sd": 9.6,
+    "minus_2sd": 10.4,
+    "plus_2sd": 14.4
+  },
+  {
+    "tinggi_cm": 87.5,
+    "minus_3sd": 9.7,
+    "minus_2sd": 10.5,
+    "plus_2sd": 14.5
+  },
+  {
+    "tinggi_cm": 88.0,
+    "minus_3sd": 9.8,
+    "minus_2sd": 10.6,
+    "plus_2sd": 14.7
+  },
+  {
+    "tinggi_cm": 88.5,
+    "minus_3sd": 9.9,
+    "minus_2sd": 10.7,
+    "plus_2sd": 14.8
+  },
+  {
+    "tinggi_cm": 89.0,
+    "minus_3sd": 10.0,
+    "minus_2sd": 10.8,
+    "plus_2sd": 14.9
+  },
+  {
+    "tinggi_cm": 89.5,
+    "minus_3sd": 10.1,
+    "minus_2sd": 10.9,
+    "plus_2sd": 15.1
+  },
+  {
+    "tinggi_cm": 90.0,
+    "minus_3sd": 10.2,
+    "minus_2sd": 11.0,
+    "plus_2sd": 15.2
+  },
+  {
+    "tinggi_cm": 90.5,
+    "minus_3sd": 10.3,
+    "minus_2sd": 11.1,
+    "plus_2sd": 15.3
+  },
+  {
+    "tinggi_cm": 91.0,
+    "minus_3sd": 10.4,
+    "minus_2sd": 11.2,
+    "plus_2sd": 15.5
+  },
+  {
+    "tinggi_cm": 91.5,
+    "minus_3sd": 10.5,
+    "minus_2sd": 11.3,
+    "plus_2sd": 15.6
+  },
+  {
+    "tinggi_cm": 92.0,
+    "minus_3sd": 10.6,
+    "minus_2sd": 11.4,
+    "plus_2sd": 15.8
+  },
+  {
+    "tinggi_cm": 92.5,
+    "minus_3sd": 10.7,
+    "minus_2sd": 11.5,
+    "plus_2sd": 15.9
+  },
+  {
+    "tinggi_cm": 93.0,
+    "minus_3sd": 10.8,
+    "minus_2sd": 11.6,
+    "plus_2sd": 16.0
+  },
+  {
+    "tinggi_cm": 93.5,
+    "minus_3sd": 10.9,
+    "minus_2sd": 11.7,
+    "plus_2sd": 16.2
+  },
+  {
+    "tinggi_cm": 94.0,
+    "minus_3sd": 11.0,
+    "minus_2sd": 11.8,
+    "plus_2sd": 16.3
+  },
+  {
+    "tinggi_cm": 94.5,
+    "minus_3sd": 11.1,
+    "minus_2sd": 11.9,
+    "plus_2sd": 16.5
+  },
+  {
+    "tinggi_cm": 95.0,
+    "minus_3sd": 11.1,
+    "minus_2sd": 12.0,
+    "plus_2sd": 16.6
+  },
+  {
+    "tinggi_cm": 95.5,
+    "minus_3sd": 11.2,
+    "minus_2sd": 12.1,
+    "plus_2sd": 16.7
+  },
+  {
+    "tinggi_cm": 96.0,
+    "minus_3sd": 11.3,
+    "minus_2sd": 12.2,
+    "plus_2sd": 16.9
+  },
+  {
+    "tinggi_cm": 96.5,
+    "minus_3sd": 11.4,
+    "minus_2sd": 12.3,
+    "plus_2sd": 17.0
+  },
+  {
+    "tinggi_cm": 97.0,
+    "minus_3sd": 11.5,
+    "minus_2sd": 12.4,
+    "plus_2sd": 17.2
+  },
+  {
+    "tinggi_cm": 97.5,
+    "minus_3sd": 11.6,
+    "minus_2sd": 12.5,
+    "plus_2sd": 17.4
+  },
+  {
+    "tinggi_cm": 98.0,
+    "minus_3sd": 11.7,
+    "minus_2sd": 12.6,
+    "plus_2sd": 17.5
+  },
+  {
+    "tinggi_cm": 98.5,
+    "minus_3sd": 11.8,
+    "minus_2sd": 12.8,
+    "plus_2sd": 17.7
+  },
+  {
+    "tinggi_cm": 99.0,
+    "minus_3sd": 11.9,
+    "minus_2sd": 12.9,
+    "plus_2sd": 17.9
+  },
+  {
+    "tinggi_cm": 99.5,
+    "minus_3sd": 12.0,
+    "minus_2sd": 13.0,
+    "plus_2sd": 18.0
+  },
+  {
+    "tinggi_cm": 100.0,
+    "minus_3sd": 12.1,
+    "minus_2sd": 13.1,
+    "plus_2sd": 18.2
+  },
+  {
+    "tinggi_cm": 100.5,
+    "minus_3sd": 12.2,
+    "minus_2sd": 13.2,
+    "plus_2sd": 18.4
+  },
+  {
+    "tinggi_cm": 101.0,
+    "minus_3sd": 12.3,
+    "minus_2sd": 13.3,
+    "plus_2sd": 18.5
+  },
+  {
+    "tinggi_cm": 101.5,
+    "minus_3sd": 12.4,
+    "minus_2sd": 13.4,
+    "plus_2sd": 18.7
+  },
+  {
+    "tinggi_cm": 102.0,
+    "minus_3sd": 12.5,
+    "minus_2sd": 13.6,
+    "plus_2sd": 18.9
+  },
+  {
+    "tinggi_cm": 102.5,
+    "minus_3sd": 12.6,
+    "minus_2sd": 13.7,
+    "plus_2sd": 19.1
+  },
+  {
+    "tinggi_cm": 103.0,
+    "minus_3sd": 12.8,
+    "minus_2sd": 13.8,
+    "plus_2sd": 19.3
+  },
+  {
+    "tinggi_cm": 103.5,
+    "minus_3sd": 12.9,
+    "minus_2sd": 13.9,
+    "plus_2sd": 19.5
+  },
+  {
+    "tinggi_cm": 104.0,
+    "minus_3sd": 13.0,
+    "minus_2sd": 14.0,
+    "plus_2sd": 19.7
+  },
+  {
+    "tinggi_cm": 104.5,
+    "minus_3sd": 13.1,
+    "minus_2sd": 14.2,
+    "plus_2sd": 19.9
+  },
+  {
+    "tinggi_cm": 105.0,
+    "minus_3sd": 13.2,
+    "minus_2sd": 14.9,
+    "plus_2sd": 20.1
+  },
+  {
+    "tinggi_cm": 105.5,
+    "minus_3sd": 13.3,
+    "minus_2sd": 14.4,
+    "plus_2sd": 20.3
+  },
+  {
+    "tinggi_cm": 106.0,
+    "minus_3sd": 13.4,
+    "minus_2sd": 14.5,
+    "plus_2sd": 20.5
+  },
+  {
+    "tinggi_cm": 106.5,
+    "minus_3sd": 13.5,
+    "minus_2sd": 14.7,
+    "plus_2sd": 20.7
+  },
+  {
+    "tinggi_cm": 107.0,
+    "minus_3sd": 13.7,
+    "minus_2sd": 14.8,
+    "plus_2sd": 20.9
+  },
+  {
+    "tinggi_cm": 107.5,
+    "minus_3sd": 13.8,
+    "minus_2sd": 14.9,
+    "plus_2sd": 21.1
+  },
+  {
+    "tinggi_cm": 108.0,
+    "minus_3sd": 13.9,
+    "minus_2sd": 15.1,
+    "plus_2sd": 21.3
+  },
+  {
+    "tinggi_cm": 108.5,
+    "minus_3sd": 14.0,
+    "minus_2sd": 15.2,
+    "plus_2sd": 21.5
+  },
+  {
+    "tinggi_cm": 109.0,
+    "minus_3sd": 14.1,
+    "minus_2sd": 15.3,
+    "plus_2sd": 21.8
+  },
+  {
+    "tinggi_cm": 109.5,
+    "minus_3sd": 14.3,
+    "minus_2sd": 15.5,
+    "plus_2sd": 22.0
+  },
+  {
+    "tinggi_cm": 110.0,
+    "minus_3sd": 14.4,
+    "minus_2sd": 15.6,
+    "plus_2sd": 22.2
+  },
+  {
+    "tinggi_cm": 110.5,
+    "minus_3sd": 14.5,
+    "minus_2sd": 15.8,
+    "plus_2sd": 22.4
+  },
+  {
+    "tinggi_cm": 111.0,
+    "minus_3sd": 14.6,
+    "minus_2sd": 15.9,
+    "plus_2sd": 22.7
+  },
+  {
+    "tinggi_cm": 111.5,
+    "minus_3sd": 14.8,
+    "minus_2sd": 16.0,
+    "plus_2sd": 22.9
+  },
+  {
+    "tinggi_cm": 112.0,
+    "minus_3sd": 14.9,
+    "minus_2sd": 16.2,
+    "plus_2sd": 23.1
+  },
+  {
+    "tinggi_cm": 112.5,
+    "minus_3sd": 15.0,
+    "minus_2sd": 16.3,
+    "plus_2sd": 23.4
+  },
+  {
+    "tinggi_cm": 113.0,
+    "minus_3sd": 15.2,
+    "minus_2sd": 16.5,
+    "plus_2sd": 23.6
+  },
+  {
+    "tinggi_cm": 113.5,
+    "minus_3sd": 15.3,
+    "minus_2sd": 16.6,
+    "plus_2sd": 23.9
+  },
+  {
+    "tinggi_cm": 114.0,
+    "minus_3sd": 15.4,
+    "minus_2sd": 16.8,
+    "plus_2sd": 24.1
+  },
+  {
+    "tinggi_cm": 114.5,
+    "minus_3sd": 15.6,
+    "minus_2sd": 16.9,
+    "plus_2sd": 24.4
+  },
+  {
+    "tinggi_cm": 115.0,
+    "minus_3sd": 15.7,
+    "minus_2sd": 17.1,
+    "plus_2sd": 24.6
+  },
+  {
+    "tinggi_cm": 115.5,
+    "minus_3sd": 15.8,
+    "minus_2sd": 17.2,
+    "plus_2sd": 24.9
+  },
+  {
+    "tinggi_cm": 116.0,
+    "minus_3sd": 16.0,
+    "minus_2sd": 17.4,
+    "plus_2sd": 25.1
+  },
+  {
+    "tinggi_cm": 116.5,
+    "minus_3sd": 16.1,
+    "minus_2sd": 17.5,
+    "plus_2sd": 25.4
+  },
+  {
+    "tinggi_cm": 117.0,
+    "minus_3sd": 16.2,
+    "minus_2sd": 17.7,
+    "plus_2sd": 25.6
+  },
+  {
+    "tinggi_cm": 117.5,
+    "minus_3sd": 16.4,
+    "minus_2sd": 17.9,
+    "plus_2sd": 25.9
+  },
+  {
+    "tinggi_cm": 118.0,
+    "minus_3sd": 16.5,
+    "minus_2sd": 18.0,
+    "plus_2sd": 26.1
+  },
+  {
+    "tinggi_cm": 118.5,
+    "minus_3sd": 16.7,
+    "minus_2sd": 18.2,
+    "plus_2sd": 26.4
+  },
+  {
+    "tinggi_cm": 119.0,
+    "minus_3sd": 16.8,
+    "minus_2sd": 18.3,
+    "plus_2sd": 26.6
+  },
+  {
+    "tinggi_cm": 119.5,
+    "minus_3sd": 16.9,
+    "minus_2sd": 18.5,
+    "plus_2sd": 26.9
+  },
+  {
+    "tinggi_cm": 120.0,
+    "minus_3sd": 17.1,
+    "minus_2sd": 18.6,
+    "plus_2sd": 27.2
+  }
+]
